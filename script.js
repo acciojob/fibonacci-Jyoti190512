@@ -23,4 +23,3 @@ console.log(`The ${n}th Fibonacci number is: ${result}`);
 
 }
 
-module.exports = fibonacci;
